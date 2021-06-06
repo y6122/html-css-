@@ -1,0 +1,26 @@
+*{
+    margin:auto;
+    padding:0;
+    width:90%;
+    height: auto;
+    box-sizing:border-box;
+    
+}
+@media(min-width:1060px){
+h1{
+    text-align: center;
+    }
+   
+    
+    .log-box{
+        width:860px;
+    }
+    .text{
+        text-align: center;
+    }
+}
+
+select{
+    background-color:rgba(184, 194, 203, 0.63);
+    font-style:italic;
+}

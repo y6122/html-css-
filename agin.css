@@ -1,0 +1,35 @@
+form{
+    display:flex;
+    flex-direction: column;
+    width:50%;}
+form input label{
+    width:auto;
+    white-space: nowrap;
+    
+}
+input,label{
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+}
+a{
+    display: flex;
+    justify-content: center; 
+    margin-top:50px;
+    text-align: center;
+    width:100px;
+    padding:10px 0px 10px 0px;
+    border:solid 3px #6ea5b7;
+    background:#4d7d83;
+    
+}
+.register a{
+    border: none;
+    background:none;
+    white-space: nowrap;
+    color:#0f56b7;
+    margin: auto;
+}
+.register a:hover{
+    color: #107fe0;
+}
